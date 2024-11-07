@@ -1,0 +1,18 @@
+header{
+    background-color: rgb(0, 0, 0);
+    padding: 10px;
+   
+    text-align: center;
+}
+body{
+    background-color: red;
+}
+.a
+{
+    color: white;
+    background-color:  rgb(58, 58, 58);
+    padding: 20px;
+    display: flex;
+    justify-content:space-around;
+    font-size: larger;
+}
